@@ -26,9 +26,8 @@ A neuron in a neural network consists of the following components:
 - **Weighted Sum**: The sum of the product of each input value and its corresponding weight, plus the bias. Mathematically, it is expressed as `∑(xi * wi) + b`.
 - **Activation Function**: A function that maps the weighted sum to the output of the neuron.
 
-![Neuron Structure](https://miro.medium.com/max/1400/1*SJPacPhP4K_DEyWEe1xKkA.jpeg)
+![Neuron Structure](https://cs231n.github.io/assets/nn1/neuron_model.jpeg)
 
-*Image source: [Medium](https://miro.medium.com/max/1400/1*SJPacPhP4K_DEyWEe1xKkA.jpeg)*
 
 <a name="activation-functions"></a>
 ## 3. Activation Functions
